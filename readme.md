@@ -1,3 +1,7 @@
-I created some batch files, bundles and exes to scare someone.
+# Before downloading any files from here, read the license.
 
- I am not responsible for any damage to hardware, software, or any other systems resulting from the use of the files uploaded here. Proceed at your own risk.
+## I created some batch files, bundles and exes to scare someone.
+
+PrankForFree is a open source repository where you can do anything with the files uploaded.                      
+Customize, rewrite, change, test and so on.
+
